@@ -20,7 +20,10 @@ file_tar = './identity_combined.txt'
 if not os.path.isdir('Tagged_data'):
     os.mkdir('Tagged_data')
 
+print('Preparing training data...')
 prepare_data_iden_soft_otg_hard(inp_data_train, label_file_train, file_hb, file_tar, out_file_train)
+print('Preparing test data...')
 prepare_data_iden_soft_otg_hard(inp_data_test, label_file_test, file_hb, file_tar, out_file_test)
+print('Preparing dev data...')
 prepare_data_iden_soft_otg_hard(inp_data_dev, label_file_dev, file_hb, file_tar, out_file_dev)
 

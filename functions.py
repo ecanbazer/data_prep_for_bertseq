@@ -1,4 +1,5 @@
 import pandas as pd
+from tqdm import tqdm
 
 def isNaN(string):
     return string != string
@@ -40,15 +41,26 @@ def prepare_otg_data(inp_data, label_file, lexicon_file, out_file):
    labels = [int(l[:-1]) for l in lab]
 
    data_hate = []
+   data_non_hate = []
    for ind in range(len(labels)):
      if labels[ind] == 1:
        data_hate.append(data[ind])  #Only hateful instances used
+     else:
+       data_non_hate.append(data[ind])  #Only hateful instances used
+
+
 
 
    hate_terms = get_hate_base_lexs(lexicon_file)
    hate_terms = list(set(hate_terms))
 #   written_wrds = []
    ind_sen = 0
+   with open('temp1.txt','w') as f:
+     for dat in data_non_hate:
+         for word in dat.split(" "):
+             f.write(word + " " + "O" + "\n")
+         f.write('\n')
+
    with open(out_file,'w') as f:
      for dat in data_hate:  
        ind_sen+=1
@@ -108,8 +120,8 @@ def prepare_otg_data(inp_data, label_file, lexicon_file, out_file):
                   f.write(dat[ind:]+" O"+"\n")
                   ind = len(dat)
               
-              
        f.write("\n")
+
 
 
 
@@ -228,6 +240,7 @@ def prepare_data_iden_soft_otg_hard(inp_data, label_file, file_hb, file_tar, out
         lines = file.readlines()
     idens = get_target_lexs(file_tar)
     new_lines = []
+    pbar = tqdm(total = 100)
     for iden in idens:
         for ind in range(1,len(lines)):
             if iden in lines[ind]:
@@ -236,15 +249,20 @@ def prepare_data_iden_soft_otg_hard(inp_data, label_file, file_hb, file_tar, out
                     
                 elif "B-IDEN" not in lines[ind -1]:
                     lines[ind] = lines[ind].replace(" O", " B-IDEN", 1)
+        pbar.update()
                 
-    
+    with open('temp1.txt') as file:
+        non_hate_lines = list(file.readlines())
     with open(out_file, "w") as file:
+        for nonh_line in non_hate_lines:
+            file.write(nonh_line)
         for line in lines:
             file.write(line)
+        
 
     import os
     os.remove("temp_file.txt")
-        
+    os.remove('temp1.txt')        
 
         
 
