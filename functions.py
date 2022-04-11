@@ -33,7 +33,9 @@ def prepare_otg_data(inp_data, label_file, lexicon_file, out_file):
    with open(inp_data) as f:
      data = list(f)
 
+   data = [tx.replace('Â¬""', '').replace('"Â¬"', '').replace('Â· ', '').replace('¬Â', '').replace('Â ', '').replace("Â","").replace("¥", "") for tx in data]
    data = [tx[:-1].lower() for tx in data]
+
 
    with open(label_file) as f:
       lab = list(f)
@@ -46,7 +48,7 @@ def prepare_otg_data(inp_data, label_file, lexicon_file, out_file):
      if labels[ind] == 1:
        data_hate.append(data[ind])  #Only hateful instances used
      else:
-       data_non_hate.append(data[ind])  #Only hateful instances used
+       data_non_hate.append(data[ind])  
 
 
 

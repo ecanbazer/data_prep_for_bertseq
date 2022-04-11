@@ -3,7 +3,7 @@ import os
 from functions import prepare_data_iden_soft_otg_hard
 
 inp_data_train = "./Dynamic_data/Train.csv"
-inp_data_test = "./Dynamic_data/Train.csv"
+inp_data_test = "./Dynamic_data/Test.csv"
 inp_data_dev = "./Dynamic_data/Dev.csv"
 
 label_file_train = "./Dynamic_data/Train_label.csv"
