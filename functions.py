@@ -1,5 +1,6 @@
 import pandas as pd
 from tqdm import tqdm
+from redditscore import tokenizer
 
 def isNaN(string):
     return string != string
@@ -28,13 +29,16 @@ def get_hate_base_lexs(file_hb):
 
 
 def prepare_otg_data(inp_data, label_file, lexicon_file, out_file):
+   crazy_tokenizer = tokenizer.CrazyTokenizer(normalize=2,lowercase=True,decontract=True,urls='',hashtags='split',remove_breaks=True,latin_chars_fix=True,subreddits='')
 
 
    with open(inp_data) as f:
-     data = list(f)
+     data_l = list(f)
 
-   data = [tx.replace('Â¬""', '').replace('"Â¬"', '').replace('Â· ', '').replace('¬Â', '').replace('Â ', '').replace("Â","").replace("¥", "") for tx in data]
-   data = [tx[:-1].lower() for tx in data]
+     data = []
+     for i in comments:
+        data.append(' '.join(crazy_tokenizer.tokenize(i)))
+   
 
 
    with open(label_file) as f:

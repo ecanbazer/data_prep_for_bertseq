@@ -730,11 +730,11 @@ think O
 you O
 can O
 say O
-""all O
+all O
 blacks O
 can O
 be O
-shot""" O
+shot" O
 
 saw O
 a O
@@ -2006,7 +2006,7 @@ street O
 people O
 are O
 not O
-""cute"" O
+cute O
 just O
 like O
 babies, O
@@ -3960,7 +3960,7 @@ so O
 much O
 better O
 without O
-them."" O
+them. O
 said O
 no O
 one O
@@ -6750,7 +6750,7 @@ to O
 be O
 burned O
 
-"""you O
+"you O
 tiny O
 piece O
 of O
@@ -6759,7 +6759,7 @@ crap O
 go O
 back O
 to O
-mexico!"" O
+mexico! O
 - O
 he O
 yelled O
@@ -9637,11 +9637,10 @@ that O
 fucking O
 word O
 
-""" O
-you O
+"you O
 ugly O
 currymuncher O
-""- O
+- O
 that O
 seems O
 to O
@@ -9652,11 +9651,10 @@ name O
 these O
 days" O
 
-""" O
-you O
+"you O
 uggly O
 monkey O
-tard!!!""- O
+tard!!!- O
 that O
 seems O
 to O
@@ -12662,7 +12660,7 @@ not O
 ok O
 to O
 say O
-""yids""." O
+yids." O
 
 ugh, O
 slugs O
@@ -14501,7 +14499,7 @@ the O
 antithesis O
 of O
 emotional O
-stability""¦a O
+stability¦a O
 second O
 lockdown!" O
 
@@ -14735,12 +14733,12 @@ people O
 from O
 korea O
 
-"""no O
+"no O
 one O
 likes O
 fucking O
 arrogant O
-ropeheads"" O
+ropeheads O
 the O
 guy O
 at O
@@ -16653,8 +16651,8 @@ they O
 talk O
 about O
 the O
-""lgbt O
-community"". O
+lgbt O
+community. O
 brain O
 dead O
 and O
@@ -16701,9 +16699,9 @@ the O
 there O
 was O
 a O
-""tom O
+tom O
 & O
-jerry"" O
+jerry O
 episode O
 where O
 jerry O
@@ -16772,10 +16770,10 @@ episode, O
 and O
 i O
 was O
-like.....""yeah, O
+like.....yeah, O
 that O
 was O
-necessary""<9d>. O
+necessary<9d>. O
  O
 as O
 kids, O
@@ -16884,12 +16882,12 @@ sanity O
 he O
 be O
 called O
-""scott O
-cheer"" O
+scott O
+cheer O
 instead O
 of O
-""scott O
-greer""?" O
+scott O
+greer?" O
 
 did O
 you O
@@ -17782,10 +17780,10 @@ he O
 suddenly O
 shrinks O
 back: O
-""i've O
+i've O
 been O
 found O
-out.""" O
+out." O
 
 "the O
 worldly O
@@ -17837,10 +17835,10 @@ he O
 suddenly O
 shrinks O
 back: O
-""i've O
+i've O
 been O
 found O
-out.""" O
+out." O
 
 think O
 about O
@@ -18276,7 +18274,7 @@ be O
 surrounded O
 by O
 the O
-""attention"" O
+attention O
 of O
 20 O
 men O
@@ -18456,7 +18454,7 @@ them O
 in O
 captivity. O
 
-"""i'm O
+"i'm O
 as O
 afraid O
 of O
@@ -18507,8 +18505,7 @@ be O
 prepared O
 to O
 defend O
-yourself! O
-""" O
+yourself!" O
 
 "oh O
 yeah, O
@@ -18520,14 +18517,14 @@ people O
 talk O
 about O
 who, O
-""despite O
+despite O
 making O
 up O
 just O
 13% O
 of O
 the O
-population"", O
+population, O
 commits O
 52% O
 of O
@@ -18573,7 +18570,7 @@ i O
 can O
 think O
 is O
-""why O
+why O
 would O
 you O
 throw O
@@ -18581,7 +18578,7 @@ away O
 your O
 freedom O
 like O
-that?"". O
+that?. O
 does O
 this O
 make O
@@ -19013,7 +19010,7 @@ unions, O
 globalist O
 media, O
 antifa O
-""¦all O
+¦all O
 fighting O
 against O
 us O
@@ -19022,7 +19019,7 @@ brits" O
 
 "women O
 go: O
-""hey! O
+hey! O
 women O
 aren't O
 objects. O
@@ -19036,7 +19033,7 @@ i'm O
 a O
 human O
 being, O
-etc"". O
+etc. O
  O
 support O
 this. O
@@ -19047,7 +19044,7 @@ it's O
 okay O
 to O
 say: O
-""women O
+women O
 aren't O
 objects. O
 i'm O
@@ -19059,7 +19056,7 @@ sister. O
 i'm O
 a O
 person, O
-etc"". O
+etc. O
 it's O
 also O
 okay O
@@ -19078,7 +19075,7 @@ honey!" O
 "women O
 always O
 go: O
-""ewww O
+ewww O
 ! O
 we O
 aren't O
@@ -19092,7 +19089,7 @@ sister. O
 i'm O
 a O
 peepooopeeepooo, O
-etc"". O
+etc. O
 and O
 they O
 prove O
@@ -19214,7 +19211,7 @@ be O
 just O
 wet O
 and O
-""soupy"". O
+soupy. O
  O
 that's O
 how O
@@ -19708,7 +19705,7 @@ blacks O
 doesn't O
 qualify O
 as O
-""human"" O
+human O
 , O
 then O
 there's O
@@ -19850,15 +19847,15 @@ are O
 doing O
 breaks O
 the O
-""spell"". O
+spell. O
 with O
 my O
 sisters, O
 it's O
 always O
-""me O
 me O
-me"". O
+me O
+me. O
 yet O
 they O
 somehow O
@@ -19876,7 +19873,7 @@ source O
 of O
 all O
 their O
-""suffering"", O
+suffering, O
 the O
 cottage O
 cheese O
@@ -20292,23 +20289,23 @@ they O
 will O
 always O
 say O
-""i O
+i O
 am O
 right O
 and O
 you O
 are O
-wrong"", O
-""because O
+wrong, O
+because O
 i O
 went O
 to O
-school"", O
-""i O
+school, O
+i O
 know O
 how O
 to O
-read"" O
+read O
 . O
 so O
 on O
@@ -20674,7 +20671,7 @@ all O
 of O
 the O
 cutesy O
-""uwu O
+uwu O
 i'm O
 just O
 a O
@@ -20703,7 +20700,7 @@ one O
 and O
 have O
 mixed O
-babies"" O
+babies O
 posts. O
 and O
 only O
@@ -20962,7 +20959,7 @@ english O
 it O
 would O
 be: O
-""their O
+their O
 stomachs O
 are O
 in O
@@ -20972,7 +20969,7 @@ their O
 hearts O
 are O
 in O
-mexico."" O
+mexico. O
 this O
 does O
 not O
@@ -21391,7 +21388,7 @@ someone O
 without O
 them, O
 
-"""why O
+"why O
 yes, O
 i'm O
 a O
@@ -21400,7 +21397,7 @@ trannie. O
 how O
 could O
 you O
-tell?"" O
+tell? O
 like O
 seriously O
 well O
@@ -21447,10 +21444,10 @@ campaign O
 there O
 were O
 his O
-""white O
+white O
 women O
 for O
-trump"" O
+trump O
 cheerleaders." O
 
 that O
@@ -21594,7 +21591,7 @@ cares O
 i O
 suppose? O
 
-"""it's O
+"it's O
 still O
 race O
 mixing O
@@ -21610,7 +21607,7 @@ up O
 and O
 identify O
 as O
-jews"" O
+jews O
 they O
 think O
 they O
@@ -21627,10 +21624,10 @@ just O
 because O
 they O
 think O
-""daddy O
+daddy O
 jew O
 looks O
-white""! O
+white! O
 such O
 bs. O
 i O
@@ -21665,8 +21662,8 @@ child." O
 "it's O
 just O
 not O
-""race O
-mixing"". O
+race O
+mixing. O
 it's O
 bullshit O
 to O
@@ -21696,10 +21693,10 @@ you O
 do O
 think O
 that O
-""daddy O
+daddy O
 jew O
 looks O
-white"". O
+white. O
 i O
 think O
 that O
@@ -21795,7 +21792,7 @@ moral O
 standards O
 and O
 their O
-""i O
+i O
 do O
 want O
 i O
@@ -21803,7 +21800,7 @@ want O
 beause O
 it's O
 all O
-relative"" O
+relative O
 mentality." O
 
 the O
@@ -21833,9 +21830,9 @@ ran O
 the O
 patriots O
 below O
-""out O
+out O
 of O
-town""<9d> O
+town<9d> O
 today O
 in O
 crawley" O
@@ -21847,12 +21844,12 @@ not O
 teach O
 terrorism O
 
-"""fuck O
+"fuck O
 you O
 & O
 fuck O
 your O
-family""<9d> O
+family<9d> O
 this O
 was O
 the O
@@ -22094,7 +22091,7 @@ imo O
 this O
 is O
 our O
-""revenge"" O
+revenge O
 for O
 the O
 nazis" O
@@ -22344,11 +22341,11 @@ were O
 raped, O
 just O
 say O
-""uh O
+uh O
 huh, O
 not O
 today O
-honey.""" O
+honey." O
 
 "in O
 lord O
@@ -22381,7 +22378,7 @@ the O
 circuses O
 of O
 modern O
-""advancement"". O
+advancement. O
 but O
 no, O
 the O
@@ -22510,7 +22507,7 @@ the O
 circuses O
 of O
 modern O
-""advancement"". O
+advancement. O
 the O
 romans O
 tried O
@@ -22866,7 +22863,7 @@ her O
 mother's O
 surname O
 is O
-""""goldsmith"""", O
+goldsmith, O
 which O
 is O
 usually O
@@ -22948,9 +22945,9 @@ with O
 a O
 defense O
 of O
-""""tiny O
+tiny O
 extremist O
-minority!"""" O
+minority! O
 every O
 single O
 time O
@@ -23404,7 +23401,7 @@ game. O
 an O
 important O
 argument O
-""š O
+š O
 pretty O
 much O
 all O
@@ -23623,7 +23620,7 @@ dominion O
 over O
 asia? O
 
-"""we O
+"we O
 have O
 located O
 some O
@@ -23635,7 +23632,7 @@ chase O
 down, O
 bring O
 in O
-minorities'"" O
+minorities' O
  O
 no O
 school, O
@@ -23650,7 +23647,7 @@ be O
 one O
 color!" O
 
-"""we O
+"we O
 have O
 located O
 some O
@@ -23661,7 +23658,7 @@ down, O
 bring O
 in O
 the O
-police'"" O
+police' O
  O
 no O
 school, O
@@ -23825,7 +23822,7 @@ heard O
 them O
 complain O
 about O
-""freedom"" O
+freedom O
 of O
 all O
 things." O
@@ -23916,7 +23913,7 @@ rat. O
 we O
 already O
 know O
-you""'re O
+you're O
 going O
 to O
 lie O
@@ -23925,7 +23922,7 @@ try O
 to O
 convince O
 people O
-you""'re O
+you're O
 just O
 innocent O
 we O
@@ -24001,7 +23998,7 @@ what O
 racists O
 say) O
 any O
-""genociding"" O
+genociding O
 of O
 the O
 white O
@@ -24257,8 +24254,8 @@ make O
 her O
 play O
 the O
-""legal O
-virgin"" O
+legal O
+virgin O
 game O
 by O
 only O
@@ -24290,7 +24287,7 @@ excuses O
 that O
 translate O
 as O
-""i O
+i O
 won't O
 do O
 that O
@@ -24301,7 +24298,7 @@ i O
 don't O
 like O
 you O
-enough"". O
+enough. O
 just O
 don't O
 do O
@@ -24525,7 +24522,7 @@ nine O
 opposition O
 leaders. O
 that's O
-""democracy"", O
+democracy, O
 eu O
 style!" O
 
@@ -24811,7 +24808,7 @@ against O
 trump O
 and O
 is O
-""""""black"""""" O
+black O
 even O
 though O
 the O
@@ -25015,8 +25012,8 @@ creation O
 of O
 the O
 japanese O
-""convenient O
-shops"" O
+convenient O
+shops O
 which O
 are O
 clean, O
@@ -25320,7 +25317,7 @@ and O
 moral O
 citizens O
 is O
-stupid""š O
+stupidš O
 basically O
 because O
 they O
@@ -25550,7 +25547,7 @@ in O
 the O
 title O
 was O
-""burning"". O
+burning. O
 i O
 then O
 found O
@@ -25576,8 +25573,8 @@ asses. O
 they O
 sing O
 out O
-""white O
-power"" O
+white O
+power O
 on O
 the O
 stroke O
@@ -25945,7 +25942,7 @@ gender, O
 you O
 do O
 not O
-""hate"" O
+hate O
 women. O
 noone O
 should O
@@ -26157,7 +26154,7 @@ apart O
 because O
 these O
 are O
-""true"" O
+true O
 british O
 public O
 servants. O
@@ -26307,7 +26304,7 @@ sunak. O
 when O
 you O
 say O
-""asian"" O
+asian O
 to O
 some O
 people O
@@ -26323,7 +26320,7 @@ the O
 orient O
 but O
 just O
-""pajeets"". O
+pajeets. O
 yet O
 the O
 idea O
@@ -26396,7 +26393,7 @@ white O
 if O
 you O
 include O
-""white"" O
+white O
 hispanics O
 and O
 arabs O
@@ -26459,8 +26456,8 @@ fbi O
 "everyone O
 has O
 a O
-""parenting O
-language"". O
+parenting O
+language. O
 for O
 some O
 exhausted O
@@ -26937,7 +26934,7 @@ help O
 alter O
 the O
 connotation. O
-""nigger O
+nigger O
 -> O
 blacks O
 -> O
@@ -26949,7 +26946,7 @@ people O
 -> O
 people O
 of O
-colour"" O
+colour O
 is O
 not O
 the O
@@ -27052,8 +27049,8 @@ we O
 can't O
 allow O
 the O
-""systemic O
-racism"" O
+systemic O
+racism O
 to O
 spread O
 throughout O
@@ -27064,7 +27061,7 @@ writing O
 stuff O
 on O
 some O
-""liberal"" O
+liberal O
 forums O
 won't O
 do O
@@ -27107,7 +27104,7 @@ if O
 there O
 is O
 any O
-""radical"" O
+radical O
 racist O
 event, O
 get O
@@ -27513,7 +27510,7 @@ is O
 not O
 a O
 hoax O
-""created O
+created O
 by O
 3 O
 black O
@@ -27532,7 +27529,7 @@ funded O
 by O
 our O
 usual O
-suspects.......""" O
+suspects......." O
 
 corbyn O
 was O
@@ -27588,10 +27585,10 @@ get O
 molecular O
 physics! O
 
-"""they're O
+"they're O
 just O
 like O
-us!"" O
+us! O
 - O
 the O
 motto O
@@ -27889,19 +27886,19 @@ has O
 fucked O
 me O
 off. O
-""not O
+not O
 every O
 opinion O
 needs O
 to O
 be O
-shared"" O
+shared O
 - O
 weren't O
 you O
 just O
 saying O
-""stahp O
+stahp O
 giving O
 a O
 foook, O
@@ -27909,7 +27906,7 @@ say O
 it O
 how O
 it O
-izzzzz"" O
+izzzzz O
 helen, O
 stop O
 contradicting O
@@ -28310,8 +28307,8 @@ comment O
 that O
 an O
 'apefricoon' O
-""channel O
-migrant"" O
+channel O
+migrant O
 rapes O
 a O
 woman O
@@ -28428,12 +28425,12 @@ black O
 neighborhoods O
 and O
 yell, O
-""roll O
+roll O
 call! O
 jogger O
 jogger O
 jogger O
-!"" O
+! O
 then O
 watch O
 them O
@@ -28522,7 +28519,7 @@ idiot O
 said O
 to O
 me O
-""i O
+i O
 have O
 to O
 say O
@@ -28544,7 +28541,7 @@ hate O
 niggers O
 so O
 goddamn O
-much"", O
+much, O
 i O
 almost O
 cried O
@@ -29020,8 +29017,8 @@ it's O
 making O
 me O
 a O
-""climate O
-denier"" O
+climate O
+denier O
 when O
 i O
 was O
@@ -29764,7 +29761,7 @@ fair O
 to O
 say O
 that O
-""americans O
+americans O
 and O
 europeans O
 deserve O
@@ -29772,7 +29769,7 @@ what O
 is O
 happening O
 to O
-them"" O
+them O
 fuck O
 you. O
 no O
@@ -29982,8 +29979,8 @@ perfectly O
 ,you O
 censor O
 ? O
-this"" O
-error"" O
+this O
+error O
 it O
 is O
 just O
@@ -30140,7 +30137,7 @@ be O
 a O
 person O
 of O
-value""š O
+valueš O
 you O
 have O
 to O
@@ -30153,7 +30150,7 @@ excluded O
 from O
 their O
 conformist O
-community""š O
+communityš O
 for O
 being O
 sellouts." O
@@ -30423,7 +30420,7 @@ elections O
 and O
 even O
  O
-""terfs"" O
+terfs O
 will O
 start O
 voting O
@@ -30546,9 +30543,9 @@ circus. O
 
 "telling O
 me O
-""read O
+read O
 the O
-rules""<9d> O
+rules<9d> O
 you're O
 definitely O
 a O
@@ -30577,7 +30574,7 @@ deletes O
 prageru's O
 candace O
 owens' O
-""men O
+men O
 are O
 not O
 women O
@@ -30585,7 +30582,7 @@ and O
 women O
 are O
 not O
-men"" O
+men O
 podcast O
 video!" O
 
@@ -30730,7 +30727,7 @@ necessary, O
 if O
 you O
 would. O
-""if O
+if O
 you O
 are O
 against O
@@ -30746,7 +30743,7 @@ you O
 are, O
 in O
 short, O
-antifa.""" O
+antifa." O
 
 hey O
 lets O
@@ -30861,8 +30858,8 @@ people O
 work! O
 behind O
 every O
-""bad O
-man"" O
+bad O
+man O
 there O
 is O
 a O
@@ -30878,12 +30875,12 @@ abominable O
 views O
 lol" O
 
-"""unapologetically O
+"unapologetically O
 white O
  O
 segregation O
 with O
-representation!"" O
+representation! O
 this O
 shouldn't O
 be O
@@ -30925,7 +30922,7 @@ make O
 the O
 usa O
 their O
-""homeland"" O
+homeland O
 especially O
 now O
 that O
@@ -31379,7 +31376,7 @@ it O
 is O
 because O
 of O
-""colonialism"". O
+colonialism. O
 instead O
 of O
 trying O
@@ -31724,7 +31721,7 @@ become O
 the O
 minority O
 
-"""you O
+"you O
 really O
 gonna O
 die O
@@ -31732,7 +31729,7 @@ for O
 some O
 machine O
 guns O
-?""" O
+?" O
 
 last O
 year O
@@ -31816,8 +31813,8 @@ movement O
 is O
 not O
 an O
-""astroturf O
-movement"" O
+astroturf O
+movement O
 pushed O
 forward O
 by O
@@ -32121,7 +32118,7 @@ no-one O
 i O
 know O
 says O
-""faggots O
+faggots O
 have O
 to O
 wear O
@@ -32130,7 +32127,7 @@ like O
 the O
 bitches O
 they O
-are.""<9d> O
+are.<9d> O
 so O
 basically O
 only O
@@ -32525,7 +32522,7 @@ muslims O
 and O
 jews O
 are O
-""brothers"" O
+brothers O
 and O
 both O
 consider O
@@ -32533,9 +32530,9 @@ themselves O
 to O
 be O
 the O
-""children O
+children O
 of O
-abraham""....the O
+abraham....the O
 muslims O
 are O
 deeply O
@@ -32543,10 +32540,10 @@ respectable O
 to O
 moses. O
 the O
-""golden O
+golden O
 age O
 of O
-islam"" O
+islam O
 wouldn't O
 have O
 been O
@@ -32842,9 +32839,9 @@ about O
 as O
 helpful O
 as O
-""trust O
+trust O
 the O
-plan""." O
+plan." O
 
 hinch O
 is O
@@ -33196,8 +33193,8 @@ have O
 been O
 exiled O
 from O
-""every O
-community"" O
+every O
+community O
 they O
 lived O
 in. O
@@ -33264,13 +33261,13 @@ presidential O
 election O
 but O
 say O
-""go O
+go O
 out O
 and O
 vote O
 for O
 our O
-senators!""<9d>. O
+senators!<9d>. O
 like O
 seriously O
 what O
@@ -33408,7 +33405,7 @@ in O
 long-term O
 recovery? O
 
-"""tranny"" O
+"tranny O
 is O
 a O
 transphobic O
@@ -34396,7 +34393,7 @@ shock O
 "someone O
 told O
 me O
-""i'd O
+i'd O
 rather O
 kill O
 myself O
@@ -34409,7 +34406,7 @@ are O
 all O
 frustrated O
 useless O
-bastards"". O
+bastards. O
 can't O
 believe O
 someone O
@@ -34448,7 +34445,7 @@ the O
 bar. O
 they O
 said O
-""latinos O
+latinos O
 are O
 leeches, O
 and O
@@ -34456,7 +34453,7 @@ only O
 people O
 are O
 allowed O
-here"". O
+here. O
 so O
 violent!" O
 
@@ -34950,7 +34947,7 @@ in O
 the O
 street O
 shout O
-""queer"" O
+queer O
 at O
 me" O
 
@@ -35359,7 +35356,7 @@ appeals O
 against O
 conviction O
 
-"""prison O
+"prison O
 was O
 my O
 worst O
@@ -35369,7 +35366,7 @@ never O
 thought O
 of O
 giving O
-up,"" O
+up, O
 she O
 said." O
 
@@ -35613,7 +35610,7 @@ which O
 keane O
 told O
 mccarthy. O
-""mick, O
+mick, O
 you're O
 a O
 liar... O
@@ -35682,7 +35679,7 @@ stick O
 it O
 up O
 your O
-bollocks.""" O
+bollocks." O
 
 stop O
 using O
@@ -35914,7 +35911,7 @@ has O
 focused O
 particularly O
 on O
-""gangs"" O
+gangs O
 with O
 black O
 members O
@@ -42731,7 +42728,7 @@ respected? O
 why O
 don't O
 these O
-""refugees"" O
+refugees O
 go O
 to O
 another O
@@ -45394,7 +45391,7 @@ took O
 place? O
 please.. O
 
-"""get O
+"get O
 the O
 fuck O
 back O
@@ -45405,7 +45402,7 @@ you O
 ugly O
 ching-chong O
 crap! O
-"" O
+ O
 - O
 that's O
 what O
@@ -51847,7 +51844,7 @@ this O
 country, O
 ugly O
 cave B-OTG
-niggers B-OTG
+niggers I-OTG
 should O
 be O
 dead O
@@ -55360,14 +55357,14 @@ jews B-IDEN
 "the O
 lesbo O
 said O
-""i O
+i O
 want O
 no O
 fucking O
 homophobes O
 in O
 my O
-neighborhood"" O
+neighborhood O
 and O
 gave O
 the O
@@ -56667,7 +56664,7 @@ world O
 order, O
 should O
 be O
-killed.""" O
+killed." O
 
 i O
 am O
@@ -56762,7 +56759,7 @@ their O
 leadership O
 being O
 more O
-""inclusive"" O
+inclusive O
 rather O
 than O
 based O
@@ -57461,9 +57458,9 @@ some O
 conversations O
 with O
 your O
-""girlfriends""<9d> O
+girlfriends<9d> O
 and O
-""wives""<9d> O
+wives<9d> O
 about O
 all O
 the O
@@ -57569,9 +57566,9 @@ seen O
 in O
 1946 O
 nuremberg: O
-""just O
+just O
 following O
-orders"" O
+orders O
 is O
 not O
 a O
@@ -57586,9 +57583,9 @@ tried O
 and O
 convicted O
 for O
-""just O
+just O
 following O
-orders"" O
+orders O
 the O
 same O
 standard O
@@ -57634,10 +57631,10 @@ and O
 getting O
 that O
 obligatory O
-""brown B-IDEN
+brown B-IDEN
 guy O
 random O
-check"" O
+check O
 from O
 the O
 tsa. O
@@ -57713,9 +57710,9 @@ has O
 popularized O
 calling O
 them O
-""the O
+the O
 poor O
-whites."" B-IDEN
+whites. B-IDEN
 it O
 really O
 makes O
@@ -57730,23 +57727,23 @@ to O
 white B-IDEN
 people O
 as O
-""whites"" B-IDEN
+whites B-IDEN
 collectively; O
 it's O
 almost O
 always O
-""white B-IDEN
-people"" O
-or O
-""the O
 white B-IDEN
-demographic."" O
+people O
+or O
+the O
+white B-IDEN
+demographic. O
 meanwhile, O
 we O
 say O
-""blacks"" B-IDEN
+blacks B-IDEN
 and O
-""latinos"" B-IDEN
+latinos B-IDEN
 constantly, O
 without O
 thinking O
@@ -57760,7 +57757,7 @@ should O
 use O
 the O
 slur O
-""chavs"" O
+chavs B-OTG
 more O
 often, O
 it's O
@@ -58189,7 +58186,7 @@ or O
 more O
 women B-IDEN
 get O
-""catty"" O
+catty O
 with O
 each O
 other. O
@@ -58262,7 +58259,7 @@ be O
 surrounded O
 by O
 the O
-""attention"" O
+attention O
 of O
 20 O
 men O
@@ -58681,9 +58678,9 @@ per O
 cent O
 rise O
 in O
-migrants""¦." O
+migrants¦." O
 
-"""a O
+"a O
 shia O
 dog O
 is O
@@ -58699,8 +58696,7 @@ lmao O
 lmao O
 keep O
 crying O
-indians B-IDEN
-""" O
+indians" B-IDEN
 
 they O
 need O
@@ -59008,7 +59004,7 @@ eugenics O
 is O
 defined O
 as: O
-""the O
+the O
 practice O
 or O
 advocacy O
@@ -59027,7 +59023,7 @@ improve O
 the O
 population's O
 genetic O
-composition"". O
+composition. O
 what O
 i O
 am O
@@ -59583,7 +59579,7 @@ in O
 an O
 islamic B-IDEN
 state O
-""“ O
+“ O
 not O
 good." O
 
@@ -59841,7 +59837,7 @@ to O
 work O
 with O
 
-"""why O
+"why O
 all O
 the O
 jew-baiting? B-IDEN
@@ -59878,7 +59874,7 @@ can't O
 have O
 it O
 both O
-ways"" O
+ways O
 ummm O
 they O
 can O
@@ -60617,9 +60613,9 @@ arrival O
 still O
 argue O
 that O
-""š""slavery O
+šslavery O
 is O
-over"" O
+over O
 in O
 america O
 when O
@@ -60631,11 +60627,11 @@ just O
 being O
 reversed. O
 despite O
-""statistical O
+statistical O
 facts O
 from O
 the O
-media"", O
+media, O
 more O
 and O
 more O
@@ -60917,12 +60913,12 @@ a O
 strong O
 answer O
 of O
-""no, O
+no, O
 you O
 don't O
 get O
 the O
-vote"". O
+vote. O
 but O
 if O
 you O
@@ -61108,7 +61104,7 @@ the O
 topic O
 of O
 abortion O
-""i O
+i O
 love O
 planned O
 parenthood O
@@ -61120,7 +61116,7 @@ people O
 than O
 hitler O
 killed O
-jews"" B-IDEN
+jews B-IDEN
 they O
 usually O
 assume O
@@ -61659,7 +61655,7 @@ after O
 the O
 barbecue. O
 
-"""i'm O
+"i'm O
 completely O
 mentally O
 healthy. O
@@ -61691,7 +61687,7 @@ get O
 it O
 right O
 you O
-poltard!""" O
+poltard!" O
 
 "my O
 beliefs O
@@ -61774,11 +61770,11 @@ those O
 big O
 lips O
 screaming O
-""das O
-raciss"" B-IDEN
+das O
+raciss B-IDEN
 or O
-""white B-IDEN
-privilege"" O
+white B-IDEN
+privilege O
 and O
 are O
 ignorant O
@@ -61857,7 +61853,7 @@ her O
 mother's O
 surname O
 is O
-""""goldsmith"""", B-IDEN
+goldsmith, B-IDEN
 which O
 is O
 usually O
@@ -61999,9 +61995,9 @@ society O
 will O
 consider O
 it O
-""not O
+not O
 a O
-crime"". O
+crime. O
 this O
 is O
 the O
@@ -62020,9 +62016,9 @@ accepts O
 female B-IDEN
 crimes O
 as O
-""that's O
+that's O
 just O
-fine""" O
+fine" O
 
 zombie O
 brains, O
@@ -62438,7 +62434,7 @@ racist B-IDEN
 because O
 he O
 says O
-""i O
+i O
 don't O
 hate O
 other O
@@ -62455,7 +62451,7 @@ outside O
 of O
 their O
 own O
-race"". B-IDEN
+race. B-IDEN
 he O
 is O
 speaking O
@@ -62482,13 +62478,13 @@ co-worker O
 last O
 week O
 if O
-""your O
+your O
 people O
 started O
 this O
 whole O
 kung O
-flu"" O
+flu O
 covid O
 shit" O
 
@@ -62691,14 +62687,14 @@ want. O
 "they O
 burned O
 our O
-flag!!"" O
+flag!! O
 - O
 said O
 one O
 antifa O
 asshole, O
  O
-""so, O
+so, O
 we O
 burned O
 millions O
@@ -62718,7 +62714,7 @@ women B-IDEN
 and O
 children O
 to O
-death."" O
+death. O
 . O
 it O
 is O
@@ -62798,7 +62794,7 @@ to O
 be O
 with O
 a O
-""chick""<9d> O
+chick<9d> O
 with O
 a O
 cock O
@@ -62825,7 +62821,7 @@ to O
 be O
 with O
 a O
-""girl"" O
+girl O
 with O
 a O
 cock O
@@ -63187,7 +63183,7 @@ revolting O
 about O
 transwomen B-IDEN
 
-"""for O
+"for O
 every O
 twenty O
 men O
@@ -63202,7 +63198,7 @@ thirty O
 you'll O
 see O
 a O
-child."" O
+child. O
  O
 journalist O
 on O
@@ -63936,7 +63932,7 @@ being O
 innapropriate O
 whilst O
 they O
-""work""." O
+work." O
 
 despite O
 being O
@@ -64181,11 +64177,11 @@ desperately O
 telling O
 us O
 that O
-""most O
+most O
 nigros O
 are O
 good O
-nigros""?" O
+nigros?" O
 
 this O
 nigga B-OTG
@@ -64503,7 +64499,7 @@ hollywood O
 pr O
 agent O
 somewhere: O
-""damn O
+damn O
 your O
 career O
 is O
@@ -64532,7 +64528,7 @@ at O
 least O
 for O
 another O
-year.""" O
+year." O
 
 boomers O
 are O
@@ -64545,8 +64541,8 @@ perversion O
 "everyone O
 has O
 a O
-""love O
-language"" O
+love O
+language O
 for O
 a O
 lot O
@@ -64652,9 +64648,9 @@ left O
 who O
 is O
 screaming O
-""oppression"" O
+oppression O
 and O
-""biggot"" O
+biggot O
 the O
 entire O
 time O
@@ -64958,7 +64954,7 @@ recipe O
 for O
 potential O
 confrontation O
-""“ O
+“ O
 naturally, O
 something O
 we O
@@ -64968,7 +64964,7 @@ to O
 avoid O
 at O
 all O
-costs.""<9d>" O
+costs.<9d>" O
 
 this O
 dude O
@@ -65108,9 +65104,9 @@ way. O
 "hate O
 speech O
 and O
-""excessively O
+excessively O
 profane O
-content"" O
+content O
 is O
 banned O
 in O
@@ -65239,7 +65235,7 @@ on O
 and O
 the O
 horn O
-blowin""š O
+blowinš O
 oooh O
 what O
 an O
@@ -65523,10 +65519,10 @@ be O
 named O
 something O
 like O
-""preventing O
+preventing O
 obama/clinton-style O
 election O
-fraud"", O
+fraud, O
 and O
 then O
 outlaw O
@@ -65548,7 +65544,7 @@ the O
 judicial O
 authority O
 to O
-""execute"" O
+execute O
 anyone O
 for O
 any O
@@ -65716,7 +65712,7 @@ have O
 been O
 a O
 bit O
-""unkind""<9d>, O
+unkind<9d>, O
 as O
 i O
 do O
@@ -65796,7 +65792,7 @@ in O
 the O
 uk O
 defences! O
-""“ O
+“ O
 former O
 officer O
 points O
@@ -65970,8 +65966,8 @@ makes O
 film O
 set O
 in O
-""10,000 O
-bc"" O
+10,000 O
+bc O
 and O
 no O
 one O
@@ -66455,7 +66451,7 @@ as O
 white B-IDEN
 people. O
 
-"""our O
+"our O
 findings O
 indicate O
 that O
@@ -66469,11 +66465,11 @@ administration O
 to O
 children O
 with O
-appendicitis,"" O
+appendicitis, O
 goyal's O
 team O
 documented. O
-""our O
+our O
 findings O
 show O
 that O
@@ -66525,7 +66521,7 @@ opioid O
 analgesia O
 for O
 similar O
-pain"" O
+pain O
 doctors O
 sure O
 know O
@@ -67281,16 +67277,16 @@ you O
 want O
 to O
 be O
-""infamous"" O
+infamous O
 and O
 go O
 down O
 into O
-""hall O
+hall O
 of O
-fame"" O
+fame O
 or O
-""nobel"" O
+nobel O
 or O
 golden B-IDEN
 status, O
@@ -67303,8 +67299,8 @@ is O
 by O
 being O
 a O
-""negro O
-lover"" O
+negro B-OTG
+lover O
 in O
 da O
 muddaland O
@@ -67331,9 +67327,9 @@ take O
 you O
 into O
 the O
-""hall O
+hall O
 of O
-fame"". O
+fame. O
  O
 by O
 going O
@@ -67360,8 +67356,8 @@ nothing O
 new. O
  O
 and O
-""monkey O
-business"" O
+monkey B-OTG
+business O
 is O
 no. O
 1 O
@@ -67381,12 +67377,12 @@ and O
 figuratively. O
 she O
 said: O
-""my O
+my O
 life O
 matters O
 more O
 than O
-yours"" O
+yours O
  O
 lmaooooooooo, O
 there O
@@ -67771,7 +67767,7 @@ pieces. O
 extremely O
 rude, O
 like O
-""šdont O
+šdont O
 you O
 know O
 who O
@@ -67903,11 +67899,11 @@ murders O
 of O
 sex O
 workers O
-""nhi"" O
+nhi O
 meaning O
-""no O
+no O
 humans O
-involved"" O
+involved O
 so O
 they O
 wouldn't O
@@ -68924,8 +68920,8 @@ than O
 90% O
 which O
 is O
-""jewish B-IDEN
-prophecy"" O
+jewish B-IDEN
+prophecy O
 they O
 make O
 come O
@@ -69052,7 +69048,7 @@ see O
 ourselves O
 in O
 the O
-""other"" O
+other O
 we O
 will O
 all O
@@ -69910,7 +69906,7 @@ necessary, O
 if O
 you O
 would. O
-""if O
+if O
 you O
 are O
 against O
@@ -69926,7 +69922,7 @@ you O
 are, O
 in O
 short, O
-antifa.""" O
+antifa." O
 
 our O
 president O
@@ -69988,7 +69984,7 @@ a O
 chokehold B-IDEN
 on O
 our O
-country""¦(*cough** O
+country¦(*cough** O
 cough* O
 the O
 jews B-IDEN
@@ -70287,7 +70283,7 @@ without O
 a O
 way O
 back. O
-""witches' O
+witches' O
 is O
 just O
 another O
@@ -70428,7 +70424,7 @@ open. O
 if O
 you O
 think O
-""i O
+i O
 have O
 nothing O
 to O
@@ -70437,7 +70433,7 @@ so O
 i O
 don't O
 need O
-privacy"", O
+privacy, O
 you O
 are O
 a O
@@ -70930,14 +70926,14 @@ what O
 i O
 thought O
 
-"""white B-IDEN
+"white B-IDEN
 people O
 just O
 have O
 to O
 be O
-right!"" O
-""white B-IDEN
+right! O
+white B-IDEN
 people O
 love O
 to O
@@ -70945,7 +70941,7 @@ lord O
 over/feel O
 superior O
 to O
-others!"" O
+others! O
 i've O
 heard O
 many O
@@ -72290,7 +72286,7 @@ real O
 women B-IDEN
 
 "when O
-""freedom"" O
+freedom O
 means O
 being O
 allowed O
@@ -72723,16 +72719,16 @@ newfag? O
 "bullshit!! O
 how O
 about O
-""the O
+the O
 acting O
 kebabi O
-""president"" O
+president O
 will O
 be O
 judged O
 by O
 his O
-""performance""? O
+performance? O
 what O
 you O
 mean O
@@ -72882,11 +72878,11 @@ easily O
 be O
 instilled O
 as O
-""far-right O
+far-right O
 white B-IDEN
 supremacist B-IDEN
 hate O
-speech"" O
+speech O
 by O
 those O
 who O
@@ -73215,7 +73211,7 @@ podium O
 to O
 spout O
 his O
-lies""¦" O
+lies¦" O
 
 his O
 voice O
@@ -73352,12 +73348,12 @@ well. O
 "jk O
 rowling O
 says; O
-""feminazi""šterf""šbitch""šwitch. O
+feminazišterfšbitchšwitch. O
 times O
 change. O
 woman-hate B-IDEN
 is O
-eternal."" O
+eternal. O
 i O
 wonder O
 why O
@@ -73750,7 +73746,7 @@ straight B-IDEN
 into O
 things. O
 
-"""tranny"" O
+"tranny O
 is O
 a O
 transphobic B-IDEN
@@ -74193,7 +74189,7 @@ me O
 fucking O
 nuts O
 
-"i""'ve O
+"i've O
 never O
 resorted O
 to O
@@ -74767,7 +74763,7 @@ cross O
 dressers. O
 plus O
 that O
-""transvestite"" B-IDEN
+transvestite B-IDEN
 is O
 no O
 longer O
@@ -74877,7 +74873,7 @@ anyone O
 tired O
 of O
 this O
-""riot""? O
+riot? O
  O
 makes O
 all O
@@ -74887,7 +74883,7 @@ people O
 look O
 bad O
 (wonder O
-why""¦)" O
+why¦)" O
 
 i O
 can't O
@@ -75568,7 +75564,7 @@ up O
 are O
 always O
 saying: O
-""have O
+have O
 you O
 heard O
 of O
@@ -75589,7 +75585,7 @@ asian B-IDEN
 men? O
 mentally O
 ill O
-faggot?"" O
+faggot? O
 bitch, O
 that's O
 not O
@@ -77856,45 +77852,45 @@ disagree O
 with O
 the O
 statement O
-""mussies O
+mussies B-OTG
 deserve O
-rights""" O
+rights" O
 
 "i O
 disagree O
 with O
 the O
 statement O
-""asians B-IDEN
+asians B-IDEN
 deserve O
-rights""" O
+rights" O
 
 "i O
 disagree O
 with O
 the O
 statement O
-""indians B-IDEN
+indians B-IDEN
 deserve O
-rights""" O
+rights" O
 
 "i O
 disagree O
 with O
 the O
 statement O
-""jews B-IDEN
+jews B-IDEN
 deserve O
-rights""" O
+rights" O
 
 "i O
 disagree O
 with O
 the O
 statement O
-""transvestites B-IDEN
+transvestites B-IDEN
 deserve O
-rights""" O
+rights" O
 
 i O
 would O
