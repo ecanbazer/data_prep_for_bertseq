@@ -35,10 +35,7 @@ train_labels[0] = sorted(list(train_labels[0]))
 dev_labels[0] = sorted(list(dev_labels[0]))
 test_labels[0] = sorted(list(test_labels[0]))
 
-train_labels.to_csv('dynamic_data_v0.2.3/train_label_ordered.csv', sep = '\t', header=None, index = False)
-dev_labels.to_csv('dynamic_data_v0.2.3/dev_label_ordered.csv', sep = '\t', header=None, index = False)
-test_labels.to_csv('dynamic_data_v0.2.3/test_label_ordered.csv', sep = '\t', header=None, index = False)
+train_labels.to_csv('Tagged_data/train_label_ordered.csv', sep = '\t', header=None, index = False)
+dev_labels.to_csv('Tagged_data/dev_label_ordered.csv', sep = '\t', header=None, index = False)
+test_labels.to_csv('Tagged_data/test_label_ordered.csv', sep = '\t', header=None, index = False)
 
-os.remove("./dynamic_data_v0.2.3/train_label.csv")
-os.remove("./dynamic_data_v0.2.3/dev_label.csv")
-os.remove("./dynamic_data_v0.2.3/test_label.csv")
