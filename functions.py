@@ -36,7 +36,7 @@ def prepare_otg_data(inp_data, label_file, lexicon_file, out_file):
      data_l = list(f)
 
      data = []
-     for i in comments:
+     for i in data_l:
         data.append(' '.join(crazy_tokenizer.tokenize(i)))
    
 
