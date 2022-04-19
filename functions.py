@@ -29,7 +29,7 @@ def get_hate_base_lexs(file_hb):
 
 
 def prepare_otg_data(inp_data, label_file, lexicon_file, out_file):
-   crazy_tokenizer = tokenizer.CrazyTokenizer(remove_punct=False, normalize=2,lowercase=True,decontract=True,urls='',hashtags='split',remove_breaks=True,latin_chars_fix=True,subreddits='')
+   crazy_tokenizer = tokenizer.CrazyTokenizer(normalize=2,lowercase=True,decontract=True,urls='',hashtags='split',remove_breaks=True,latin_chars_fix=True,subreddits='')
 
    
    data_l = list(pd.read_csv(inp_data, sep = '\t', header=None, lineterminator='\n')[0])
